@@ -11,3 +11,4 @@ Backend - Nest.js
 Database: MongoDB (Firebase)
 Authentication: Clerk
 Hosting: Vercel
+Image Shrinker
